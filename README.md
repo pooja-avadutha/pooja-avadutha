@@ -62,7 +62,7 @@
   <!-- Tools -->
 <h4>Tools & Version Control</h4>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </a>
 </div>
  
