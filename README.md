@@ -105,7 +105,6 @@
 <ul>
 <li>Advanced Flutter UI & Animations</li>
 <li>Laravel API Optimization</li>
-<li>System Design Basics</li>
 </ul>
  
 <hr/>
