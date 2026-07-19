@@ -1,6 +1,6 @@
 ![Pooja | Flutter & Laravel Developer](banner.png)
 
-<h1 align="center">Hi 👋, I'm <br/>Pooja Avadutha</h1>
+<h1 align="center">Hi 👋, I'm <br/>Pooja Avadutha</h1> 
 <h3 align="center">Flutter Developer | Laravel Developer</h3>
  
  
