@@ -94,7 +94,6 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pooja-avadutha&theme=tokyonight" />
 </p>
  
 <hr/>
