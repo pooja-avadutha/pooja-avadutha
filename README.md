@@ -90,12 +90,17 @@
  
 <hr/>
  
-<!-- ===================== STATS ===================== -->
-<h2 align="left">GitHub Stats</h2>
+<!-- ===================== GITHUB STATS ===================== -->
+<h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pooja-avadutha&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
- 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-avadutha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 <hr/>
  
 <!-- ===================== LEARNING ===================== -->
