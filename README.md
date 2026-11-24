@@ -1,12 +1,12 @@
 ![Pooja | Flutter & Laravel Developer](banner.png)
 
 <h1 align="center">Hi 👋, I'm <br/>Pooja Avadutha</h1> 
-<h3 align="center">Flutter Developer | Laravel Developer</h3>
+<h3 align="center">Laravel Developer | Flutter Developer</h3>
  
  
 <p align="center">
-  ✨ Building cross-platform mobile apps using Flutter <br/>
   📚 Developing backend systems using Laravel <br/>
+  ✨ Building cross-platform mobile apps using Flutter <br/>
   🎯 Interested in real-world application development
 </p>
  
@@ -16,7 +16,7 @@
 <h2 align="left">About Me</h2>
  
 <p align="left">
-💻 Actively working on Flutter apps & Laravel backend projects <br/>
+💻 Actively working on Laravel backend & Flutter apps projects <br/>
 🧠 Passionate about building scalable, user-friendly applications
 </p>
  
@@ -103,8 +103,8 @@
 <h2 align="left">Currently Learning</h2>
  
 <ul>
-<li>Advanced Flutter UI & Animations</li>
 <li>Laravel API Optimization</li>
+<li>Advanced System Design and Devops</li>
 </ul>
  
 <hr/>
@@ -113,7 +113,7 @@
 <h2 align="left">Open to Collaborate</h2>
  
 <p align="left">
-🤝 Open to Flutter & Laravel project collaborations <br/>
+🤝 Open to Laravel project collaborations <br/>
 📬 Feel free to reach out for teamwork and learning opportunities
 </p>
  
